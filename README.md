@@ -1,0 +1,1 @@
+# 1.17-Resource-Pack-Template
